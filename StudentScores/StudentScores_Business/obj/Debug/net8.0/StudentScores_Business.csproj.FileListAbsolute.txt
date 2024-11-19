@@ -1,0 +1,11 @@
+C:\Users\tripl\OneDrive - NBCC\oop\StudentScores\StudentScores_Business\bin\Debug\net8.0\StudentScores_Business.deps.json
+C:\Users\tripl\OneDrive - NBCC\oop\StudentScores\StudentScores_Business\bin\Debug\net8.0\StudentScores_Business.dll
+C:\Users\tripl\OneDrive - NBCC\oop\StudentScores\StudentScores_Business\bin\Debug\net8.0\StudentScores_Business.pdb
+C:\Users\tripl\OneDrive - NBCC\oop\StudentScores\StudentScores_Business\obj\Debug\net8.0\StudentScores_Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tripl\OneDrive - NBCC\oop\StudentScores\StudentScores_Business\obj\Debug\net8.0\StudentScores_Business.AssemblyInfoInputs.cache
+C:\Users\tripl\OneDrive - NBCC\oop\StudentScores\StudentScores_Business\obj\Debug\net8.0\StudentScores_Business.AssemblyInfo.cs
+C:\Users\tripl\OneDrive - NBCC\oop\StudentScores\StudentScores_Business\obj\Debug\net8.0\StudentScores_Business.csproj.CoreCompileInputs.cache
+C:\Users\tripl\OneDrive - NBCC\oop\StudentScores\StudentScores_Business\obj\Debug\net8.0\StudentScores_Business.dll
+C:\Users\tripl\OneDrive - NBCC\oop\StudentScores\StudentScores_Business\obj\Debug\net8.0\refint\StudentScores_Business.dll
+C:\Users\tripl\OneDrive - NBCC\oop\StudentScores\StudentScores_Business\obj\Debug\net8.0\StudentScores_Business.pdb
+C:\Users\tripl\OneDrive - NBCC\oop\StudentScores\StudentScores_Business\obj\Debug\net8.0\ref\StudentScores_Business.dll
